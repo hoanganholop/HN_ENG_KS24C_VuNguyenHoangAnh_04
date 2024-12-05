@@ -26,7 +26,7 @@ int main(){
 		}
 		
 		switch(choice){
-		    case 1:
+		        case 1:
 			    printf("Nhap so phan tu cua mang: ");
 				scanf("%d", &n);
 				for(int i=0;i<n;i++){
